@@ -1,15 +1,16 @@
 
 img.logo {
-    box-align: center;
+    align-items: center;
 }
 
 footer.bajo {
     background-color: cyan ;
 }
 
-tr.enlace {
-    border: powderblue 6px solid ;
+table.enlace {
+    border: powderblue 2px solid ;
     background-color: lightyellow;
+    border: 1;
 }
 
 h5.titulo {
